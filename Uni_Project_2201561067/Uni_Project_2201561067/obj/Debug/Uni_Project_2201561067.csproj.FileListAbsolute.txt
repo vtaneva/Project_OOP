@@ -1,0 +1,8 @@
+P:\(E)\Microsoft Visual Studio_Projects\Uni_Project_2201561067\Uni_Project_2201561067\bin\Debug\Uni_Project_2201561067.exe.config
+P:\(E)\Microsoft Visual Studio_Projects\Uni_Project_2201561067\Uni_Project_2201561067\bin\Debug\Uni_Project_2201561067.exe
+P:\(E)\Microsoft Visual Studio_Projects\Uni_Project_2201561067\Uni_Project_2201561067\bin\Debug\Uni_Project_2201561067.pdb
+P:\(E)\Microsoft Visual Studio_Projects\Uni_Project_2201561067\Uni_Project_2201561067\obj\Debug\Uni_Project_2201561067.csproj.AssemblyReference.cache
+P:\(E)\Microsoft Visual Studio_Projects\Uni_Project_2201561067\Uni_Project_2201561067\obj\Debug\Uni_Project_2201561067.csproj.SuggestedBindingRedirects.cache
+P:\(E)\Microsoft Visual Studio_Projects\Uni_Project_2201561067\Uni_Project_2201561067\obj\Debug\Uni_Project_2201561067.csproj.CoreCompileInputs.cache
+P:\(E)\Microsoft Visual Studio_Projects\Uni_Project_2201561067\Uni_Project_2201561067\obj\Debug\Uni_Project_2201561067.exe
+P:\(E)\Microsoft Visual Studio_Projects\Uni_Project_2201561067\Uni_Project_2201561067\obj\Debug\Uni_Project_2201561067.pdb
